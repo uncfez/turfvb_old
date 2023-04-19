@@ -9,7 +9,7 @@ name = "turf"
   menu_primary = "#0F255C"
   menu_text = "#ffe806"
   menu_text_active = "#ffc215"
-  menu_title = "#ffc215"
+  menu_title = "#ffe806"
 
   # Home sections
   home_section_odd = "rgb(255, 255, 255)"
