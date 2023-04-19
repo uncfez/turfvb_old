@@ -7,8 +7,8 @@ name = "turf"
 
   # Menu
   menu_primary = "#0F255C"
-  menu_text = "#ffc215"
-  menu_text_active = "#ffe806"
+  menu_text = "#ffe806"
+  menu_text_active = "#ffc215"
   menu_title = "#ffc215"
 
   # Home sections
