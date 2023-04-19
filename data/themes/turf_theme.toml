@@ -7,7 +7,7 @@ name = "turf"
 
   # Menu
   menu_primary = "#0F255C"
-  menu_text = "#34495e"
+  menu_text = "#ffc215"
   menu_text_active = "#2b2b2b"
   menu_title = "#ffc215"
 
