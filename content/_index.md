@@ -11,7 +11,7 @@ content:
   count: 0
   filters:
     folders: 
-      - post
+      - content/post
     author: ''
     category: ''
     exclude_featured: false
