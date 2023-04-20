@@ -1,17 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/page-builder/
+widget: pages
+headless: true
+weight: 20
 
 title: 
 subtitle:
-type: landing
-sections:
-  - block: collection
+
 content:
-  # Choose how many pages you would like to display (0 = all pages)
   count: 5
   filters:
-    folders: 
-      - post
     author: ''
     category: ''
     exclude_featured: false
@@ -19,6 +17,7 @@ content:
     tag: ''
   offset: 0
   order: desc
+  page_type: post
 design:
   view: showcase
   # For Showcase view, flip alternate rows?
