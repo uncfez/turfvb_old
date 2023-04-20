@@ -1,15 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
-headless: true
-weight: 20
 
-title: Inlägg
+title: 
 subtitle:
-
+type: landing
+sections:
+  - block: collection
 content:
-  count: 5
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 0
   filters:
+    folders: 
+      - post
     author: ''
     category: ''
     exclude_featured: false
