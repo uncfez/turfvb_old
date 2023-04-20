@@ -5,7 +5,7 @@ categories:
   - "bonanza"
 ---
 
-![Bonanza logo](images/B23-logo_svart-1024x724.png)
+![Bonanza logo](featured.png)
 
 **Turf Bonanza Umeå 20 May 2023**
 
