@@ -10,8 +10,6 @@ sections:
     content: 
       title: Turf Västerbotten
       text: The **Turf Västerbotten** has been a center of excellence for Turfing research, teaching, and practice since its founding in 2017.
-      image: 
-        filename: welcome.jpg
  - block: collection
     id: post
     content:
