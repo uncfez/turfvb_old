@@ -2,7 +2,7 @@
 name = "Turf"
 
 # Optional Google font URL
-google_fonts = "family=Comfortaa&family=Open+Sans&family=Roboto+Mono&family=Roboto:wght@400;700"
+google_fonts = "family=Comfortaa:wght@500&family=Open+Sans:wght@500&family=Roboto+Mono&family=Roboto:wght@400;700"
 
 # Font families
 heading_font = "Comfortaa"
