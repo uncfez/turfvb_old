@@ -22,5 +22,5 @@ design:
   view: showcase
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
-  columns: '2'
+  columns: '1'
 ---
