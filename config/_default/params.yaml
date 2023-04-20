@@ -9,7 +9,7 @@ appearance:
   theme_day: turf_theme
   theme_night:
   font: turf_font
-  font_size: XL
+  font_size: L
 
 # SEO
 
