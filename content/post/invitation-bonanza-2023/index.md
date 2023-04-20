@@ -61,7 +61,7 @@ var x = setInterval(function() {
 
 \[COUNTER\_NUMBER id=2383\]
 
-## Missa inte den nordligaste Bonanzan någonsin *\*\* Don't miss the northernmost Bonanza ever
+## Missa inte den nordligaste Bonanzan någonsin *\** Don't miss the northernmost Bonanza ever
 
 ## [**Läs mer och anmäl dig (svenska)**](https://www.turfvasterbotten.se/bonanza/valkommen-bonanza-2023)
 
