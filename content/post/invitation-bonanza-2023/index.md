@@ -16,7 +16,7 @@ categories:
 <style>
 p {
   text-align: center;
-  font-size: 60px;
+  font-size: 50px;
   margin-top: 0px;
 }
 </style>
@@ -45,13 +45,13 @@ var x = setInterval(function() {
   var seconds = Math.floor((distance % (1000 * 60)) / 1000);
     
   // Output the result in an element with id="demo"
-  document.getElementById("demo").innerHTML = days + "d " + hours + "h "
-  + minutes + "m " + seconds + "s ";
+  document.getElementById("demo").innerHTML = days + ": " + hours + ": "
+  + minutes + ": " + seconds + ": ";
     
   // If the count down is over, write some text 
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("demo").innerHTML = "EXPIRED";
+    document.getElementById("demo").innerHTML = "BONANZA!";
   }
 }, 1000);
 </script>
