@@ -19,6 +19,6 @@ content:
   order: desc
   page_type: post
 design:
-  view: showcase
-  columns: '2'
+  view: card
+  columns: '1'
 ---
