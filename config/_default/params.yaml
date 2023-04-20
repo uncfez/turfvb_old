@@ -8,7 +8,7 @@
 appearance:
   theme_day: turf_theme
   theme_night:
-  font: native
+  font: turf_font
   font_size: XL
 
 # SEO
