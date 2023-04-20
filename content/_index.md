@@ -8,7 +8,7 @@ sections:
   - block: collection
 content:
   # Choose how many pages you would like to display (0 = all pages)
-  count: 0
+  count: 5
   filters:
     folders: 
       - content/post
