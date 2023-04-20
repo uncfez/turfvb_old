@@ -19,6 +19,8 @@ content:
   order: desc
   page_type: post
 design:
-  view: card
+  view: showcase
+  # For Showcase view, flip alternate rows?
+  flip_alt_rows: false
   columns: '2'
 ---
