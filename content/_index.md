@@ -1,10 +1,8 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 
 # Page type - we want a landing page (such as a homepage)
 type: landing
-
 sections:
   - block: hero 
     content: 
