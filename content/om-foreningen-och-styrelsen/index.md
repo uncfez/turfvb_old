@@ -15,4 +15,4 @@ Föreningen ordnar bland annat de stående eventen _Västerbotten Winter Classi
 {{% staticref "uploads/verksamhetsberc3a4ttelse-2019-turf-vc3a4sterbotten-till-hemsida.pdf" "newtab" %}}Verksamhetsberättelse 2019{{% /staticref %}}
 [Verksamhetsberättelse 2019.](https://www.turfvasterbotten.se/wp-content/uploads/2020/03/verksamhetsberc3a4ttelse-2019-turf-vc3a4sterbotten-till-hemsida.pdf "Verksamhetsberättelse 2019 Turf Västerbotten till hemsida")
 
-![En skylt som markerar bussgata, med ett påhittat tillägg som lyder och cyklande turfare](assets/media/turfskylt-i-umec3a5-2018-01-05-10.14.34-e1555007379590.jpg? "Foto: WomaWomba")
+![En skylt som markerar bussgata, med ett påhittat tillägg som lyder och cyklande turfare](turfskylt-i-umec3a5-2018-01-05-10.14.34-e1555007379590.jpg "Foto: WomaWomba")
