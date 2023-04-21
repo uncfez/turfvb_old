@@ -18,6 +18,7 @@ removePathAccents: true
 ############################
 ## MODULES
 ############################
+# Github repo for CMS: https://github.com/wowchemy/wowchemy-hugo-themes/tree/main/modules/wowchemy-plugin-netlify-cms
 
 module:
   imports:
