@@ -18,7 +18,7 @@ design:
     image: 2017-06-11-11.37.33-e1557168816469.jpg
     image_darken: 0
     image_parallax: false
-    image_position: center
+    image_position: smart
     image_size: cover
     text_color_light: true
   spacing:
