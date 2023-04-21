@@ -3,7 +3,6 @@ title: "Bli medlem"
 date: "2019-05-06"
 
 design:
-  columns: '1'
   background:
     image: contact.jpg
     image_darken: 0
