@@ -8,7 +8,7 @@ title:
 subtitle:
 
 content:
-  count: 5
+  count: 0
   filters:
     author: ''
     category: ''
