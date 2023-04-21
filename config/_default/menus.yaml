@@ -8,7 +8,7 @@ main:
     url: om-foreningen-och-styrelsen
     weight: 10
   - name: Bli medlem
-    url: post
+    url: bli-medlem
     weight: 20
   - name: Event
     url: event
