@@ -1,7 +1,7 @@
 ---
 title: "Bli medlem"
 date: "2019-05-06"
-
+weight: 10
 ---
 
 ## **Medlemsavgifter 2023**
