@@ -5,20 +5,18 @@ date: "2019-05-06"
 
 ## **Medlemsavgifter 2023**
 
-Vuxen (19 år och uppåt): 120 kr
-
-Junior (till och med 18 år): 60 kr
-
-Familjemedlemskap: max 240 kr
+- Vuxen (19 år och uppåt): 120 kr
+- Junior (till och med 18 år): 60 kr
+- Familjemedlemskap: max 240 kr
 
 ## **Bli medlem**
 
 För att bli medlem i Turf Västerbotten behöver du genomföra två enkla steg:
 
-1. (_OBS! Gäller endast nya medlemmar._) Kopiera den kursiva texten nedan och klistra in i ett mail. Fyll i uppgifterna och skicka mailet till **turf.vasterbotten (snabel-a)gmail.com** I och med att du fyller i och skickar in formuläret godkänner du att Turf Västerbotten samlar in och hanterar dina personuppgifter. För mer information om hur vi hanterar dina personuppgifter se {{% staticref "uploads/registerpolicy-ver-1.1-2021.pdf" "newtab" %}}**Turf Västerbottens personuppgifts- och datahanteringspolicy** v. 1.1 2021{{% /staticref %}} 
+1. (_OBS! Gäller endast nya medlemmar._) Kopiera texten nedan och klistra in i ett mail. Fyll i uppgifterna och skicka mailet till **turf.vasterbotten (snabel-a)gmail.com** I och med att du fyller i och skickar in formuläret godkänner du att Turf Västerbotten samlar in och hanterar dina personuppgifter. För mer information om hur vi hanterar dina personuppgifter se {{% staticref "uploads/registerpolicy-ver-1.1-2021.pdf" "newtab" %}}**Turf Västerbottens personuppgifts- och datahanteringspolicy** v. 1.1 2021{{% /staticref %}} 
 2. (_Gäller nya **och** gamla medlemmar._) Betala in medlemsavgiften (vuxen, junior eller familjemedlemskap) till BankGiro 5353–0572 eller Swish 123 242 91 40. _OBS! Ange som meddelande “Årsavgift + Turfnick på alla personer" betalningen avser_. Ansökan är komplett först när betalning inkommit till föreningen. Betald medlemsavgift återbetalas ej vid eventuellt utträde ur föreningen.
 
-Kopiera texten nedan till ett mail och fyll i uppgifterna:
+**Kopiera denna text till ett mail och fyll i uppgifterna:**
 
 Genom min ansökan intygar jag att jag tagit del av Turf Västerbottens information om hur föreningen hanterar personuppgifter.
 
