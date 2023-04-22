@@ -10,7 +10,7 @@ main:
   - name: Bli medlem
     url: bli-medlem
     weight: 20
-  - name: Event
+  - name: Kalender
     url: event
     weight: 30
   - name: Västerbottens turfklassiker
