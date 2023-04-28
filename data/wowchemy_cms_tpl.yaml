@@ -74,7 +74,7 @@ collections:
                 required: false
       - {label: "Body", name: "body", widget: "markdown", required: false}
   - name: authors
-    label: Författare
+    label: "Författare"
     label_singular: Author
     folder: 'content/authors'
     path: '{{slug}}/_index'
